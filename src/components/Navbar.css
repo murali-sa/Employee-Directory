@@ -1,5 +1,6 @@
 .bold{
-    font-weight: bold;
+/*    font-weight: bold; */
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .descriptor{
@@ -11,12 +12,12 @@
 }
 
 .logo{
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .navbar{
     display: flex;
-    background-color: blue;
+    background-color: rgb(17, 104, 185);
     color: white;
     justify-content: space-between;
     align-items: center;

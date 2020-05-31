@@ -1,4 +1,8 @@
 thead{
-    background-color: gray;
+    background-color: rgb(59, 183, 221);
     font-weight: bold;
+}
+
+tbody{
+    background-color: rgba(155, 182, 204, 0.678);
 }
